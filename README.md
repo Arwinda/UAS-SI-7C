@@ -14,8 +14,9 @@ Penampakan Sistem :
 
 <br>
 
-![Riwayat Peminjaman Arsip](https://raw.githubusercontent.com/developerkampoeng/native-php-sistem-informasi-arsip-pengadilan/master/Screenshoot/Sc02.png)
+![Data Benih](https://raw.githubusercontent.com/arwinda/UAS-SI-7C/master/2.png)
 
 <br>
+![Data Kelompok Tani](https://raw.githubusercontent.com/arwinda/UAS-SI-7C/master/3.png)
 
-![Peminjaman Arsip](https://raw.githubusercontent.com/developerkampoeng/native-php-sistem-informasi-arsip-pengadilan/master/Screenshoot/Sc03.png)
+<br>
