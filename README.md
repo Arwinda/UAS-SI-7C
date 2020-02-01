@@ -10,13 +10,9 @@ Fitur :
 
 Penampakan Sistem :
 
-![Tampilan Home](https://raw.githubusercontent.com/arwinda/UAS-SI-7C/master/1.png)
+![Tampilan Home](https://github.com/Arwinda/UAS-SI-7C/blob/master/1.png)
 
 <br>
+![Tampilan Home](https://raw.githubusercontent.com/arwinda/UAS-SI-7C/master/2.png)
 
-![Data Benih](https://raw.githubusercontent.com/arwinda/UAS-SI-7C/master/2.png)
 
-<br>
-![Data Kelompok Tani](https://raw.githubusercontent.com/arwinda/UAS-SI-7C/master/3.png)
-
-<br>
