@@ -8,15 +8,26 @@ Fitur :
 - Laporan Data Penerimaan Benih
 - Cetak Laporan 
 
-Penampakan Sistem :
+Penampakan Sistem Menu Home  :
+
 
 ![Tampilan Home](https://github.com/Arwinda/UAS-SI-7C/blob/master/1.png)
 
 <br>
 <br>
 <br>
-
+Data Benih :
 ![Data Benih](https://github.com/Arwinda/UAS-SI-7C/blob/master/2.png)
+
+<br>
+<br>
+<br>
+Data Kelompok Tani
+
+![Data Benih](https://github.com/Arwinda/UAS-SI-7C/blob/master/3.png)
+
+
+
 
 
 
