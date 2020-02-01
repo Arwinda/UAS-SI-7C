@@ -13,6 +13,11 @@ Penampakan Sistem :
 ![Tampilan Home](https://github.com/Arwinda/UAS-SI-7C/blob/master/1.png)
 
 <br>
-![Tampilan Home](https://raw.githubusercontent.com/arwinda/UAS-SI-7C/master/2.png)
+<br>
+<br>
+
+![Data Benih](https://github.com/Arwinda/UAS-SI-7C/blob/master/2.png)
+
+
 
 
