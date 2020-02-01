@@ -10,7 +10,7 @@ Fitur :
 
 Penampakan Sistem :
 
-![Tampilan Home](https://raw.githubusercontent.com/arwinda/UAS-SI-7C/master/Screenshoot/Sc01.png)
+![Tampilan Home](https://raw.githubusercontent.com/arwinda/UAS-SI-7C/master/1.png)
 
 <br>
 
