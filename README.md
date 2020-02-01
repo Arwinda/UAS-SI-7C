@@ -16,9 +16,12 @@ Penampakan Sistem Menu Home  :
 <br>
 <br>
 <br>
-Data Benih :
-![Data Benih](https://github.com/Arwinda/UAS-SI-7C/blob/master/2.png)
 
+
+Data Benih :
+![Tampilan Home](https://github.com/Arwinda/UAS-SI-7C/blob/master/2.png)
+
+<br>
 <br>
 <br>
 <br>
